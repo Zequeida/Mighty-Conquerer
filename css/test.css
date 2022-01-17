@@ -1,0 +1,21 @@
+body{
+    background-color: lightgray;
+}
+h1{
+font-size: 500%;               
+}
+h2{
+color: darkgreen;
+font-size: 200%;
+}
+.uppercase{			
+text-transform: uppercase;
+color: olive;
+}
+.navygreen{
+color: olive;
+}
+span{
+color: orange;
+font-size: 150%;
+}
